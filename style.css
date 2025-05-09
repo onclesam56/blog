@@ -10,6 +10,10 @@ h1 {
     font-size: xx-large;
 }
 
+#money {
+    color: #f8faf4;
+}
+
 .side {
     display: flex;
     justify-content: center;
